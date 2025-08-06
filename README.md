@@ -1,4 +1,4 @@
-# Task 2Task-2CREATE-A-CUSTOM-ERC-20-TOKEN-USING-SOLIDITY-AND-DEPLOY-IT-ON-AN-ETHEREUM-TESTNET.
+# Task 2CREATE-A-CUSTOM-ERC-20-TOKEN-USING-SOLIDITY-AND-DEPLOY-IT-ON-AN-ETHEREUM-TESTNET.
 ## Description
 This project is part of the CodTech Blockchain Internship Task 2. It involves creating and deploying a custom ERC-20 token using Solidity and Hardhat.
 ## Token Details:
